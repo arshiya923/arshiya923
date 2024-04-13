@@ -85,4 +85,4 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="csharp" width="50" height="50"/>
     </a>
 </p>
-          
+![Jokes Card](https://readme-jokes.vercel.app/api)
