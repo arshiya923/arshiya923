@@ -1,0 +1,34 @@
+عرشیا غیبی
+مدیر زیرساخت، سیستم و شبکه
+تهران، ایران | +98 919 582 3906 | gh.arshiya92@outlook.com
+LinkedIn: https://www.linkedin.com/in/arshiyagheibi | GitHub: https://github.com/arshiya923 | تولد: ۸ خرداد ۱۳۸۳
+
+خلاصه حرفه‌ای
+متخصص عملیات زیرساخت و شبکه با بیش از ۲ سال مسئولیت اجرایی در محیط‌های چندمشتری. راهبری تیم سه‌نفره در حوزه شبکه‌های Cisco و MikroTik، سرورهای Windows و Linux، مجازی‌سازی، سرویس‌های کانتینری و استقرار خودکار؛ همراه با پیشینه توسعه نرم‌افزار.
+
+مهارت‌های کلیدی
+شبکه: Cisco IOS، MikroTik RouterOS/CHR، VLAN، TCP/IP، مسیریابی، WireGuard، VPN، فایروال، DNS و DHCP
+سیستم و مجازی‌سازی: Windows Server، Active Directory Domain Services، Ubuntu 22.04/24.04، VMware ESXi و Proxmox VE
+DevOps و زیرساخت وب: Docker، Docker Compose، Gitea، Gitea Actions، Git، Verdaccio، Nginx، Apache، Caddy و TLS/SSL
+پایگاه‌داده و SQL (تجربه پیشین/دانشگاهی): SQL، MySQL، SQL Server، SQLite، طراحی شِمای رابطه‌ای، روابط بین جداول، نرمال‌سازی، کلیدهای اصلی و خارجی، ایندکس‌گذاری، Migration در Entity Framework Core و یکپارچه‌سازی پایگاه‌داده با برنامه‌ها
+توسعه نرم‌افزار: PHP، JavaScript/AJAX، REST API، HTML/CSS/Sass، C#/ASP.NET Core، Java/Android و مبانی Python
+
+سوابق حرفه‌ای
+مدیر ارشد فناوری - عملیات زیرساخت و شبکه | افزارپرداز مهرسام | اردیبهشت ۱۴۰۳ - اکنون
+تهران، ایران
+- راهبری تیم فنی سه‌نفره و مسئولیت تحویل زیرساخت برای حدود سه شرکت مشتری؛ شامل محیطی با نزدیک به ۵۰ کارمند.
+- تفکیک شبکه Cisco با VLAN برای ترافیک بی‌سیم، LAN، VPN و سرورها؛ مدیریت مسیریابی MikroTik CHR، قواعد فایروال و دسترسی راه دور WireGuard.
+- راه‌اندازی و نگهداری سرویس‌های Windows Server شامل Domain Controller، Active Directory، DNS، DHCP و DNS Forwarder.
+- تجمیع بارهای کاری روی دو میزبان VMware ESXi/Proxmox و مدیریت حدود ۱۰ ماشین مجازی با هدف کاهش نیاز و هزینه سخت‌افزار.
+- نگهداری ماشین‌های Ubuntu و ۵ کانتینر Docker، سرویس‌های Gitea/Verdaccio، Reverse Proxy و TLS؛ خودکارسازی استقرار با Gitea Actions و رفع اختلال Runner VM.
+
+پروژه منتخب
+افزونه کنترل VPS در WordPress و Proxmox | حدود ۱۴۰۴ | PHP, JavaScript/AJAX, Proxmox REST API
+- طراحی و استقرار افزونه سفارشی و تجاری WordPress برای اتصال پرتال میزبانی VPS به Proxmox و خدمت‌رسانی به حدود ۱۰ حساب مشتری.
+- پیاده‌سازی مشاهده وضعیت، روشن/خاموش‌کردن، راه‌اندازی مجدد، ایجاد و حذف VM، دسترسی کنسول و مدیریت منابع از طریق Proxmox REST API.
+
+تحصیلات و گواهی‌ها
+کارشناسی مهندسی کامپیوتر - نرم‌افزار | دانشگاه آزاد اسلامی واحد تهران شمال | شهریور ۱۴۰۱ - پیش‌بینی پایان دی ۱۴۰۵
+گواهی دوره Linux Essentials و LPIC-1 | مجتمع فنی تهران | مهر ۱۴۰۴
+آموزش: مطالعه خودآموز: Network+، CCNA، MTCNA، Server+، MCSA و مجازی‌سازی
+زبان‌ها: فارسی (زبان مادری)، انگلیسی (پیشرفته)

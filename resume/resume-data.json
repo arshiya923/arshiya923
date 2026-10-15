@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "targetRole": "Infrastructure, Systems & Network Administrator",
+    "targetMarket": "Iranian technology employers",
+    "preferredLengthPages": 1,
+    "lastVerified": "2026-08-30"
+  },
+  "person": {
+    "name": {
+      "en": "Arshiya Gheibi",
+      "fa": "عرشیا غیبی"
+    },
+    "headline": {
+      "en": "Infrastructure, Systems & Network Administrator",
+      "fa": "مدیر زیرساخت، سیستم و شبکه"
+    },
+    "location": {
+      "en": "Tehran, Iran",
+      "fa": "تهران، ایران"
+    },
+    "phone": "+98 919 582 3906",
+    "email": "gh.arshiya92@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/arshiyagheibi",
+    "github": "https://github.com/arshiya923",
+    "photo": "profile-photo.jpg",
+    "birthDate": {
+      "en": "28 May 2004",
+      "fa": "۸ خرداد ۱۳۸۳"
+    }
+  },
+  "summary": {
+    "en": "Infrastructure and network operations professional with 2+ years of hands-on responsibility across multi-client environments. Leads a three-person team supporting Cisco and MikroTik networks, Windows and Linux systems, virtualization, containerized services, and automated deployments. Combines operational ownership with an earlier software-development background.",
+    "fa": "متخصص عملیات زیرساخت و شبکه با بیش از ۲ سال مسئولیت اجرایی در محیط‌های چندمشتری. راهبری تیم سه‌نفره در حوزه شبکه‌های Cisco و MikroTik، سرورهای Windows و Linux، مجازی‌سازی، سرویس‌های کانتینری و استقرار خودکار؛ همراه با پیشینه توسعه نرم‌افزار."
+  },
+  "skills": [
+    {
+      "label": { "en": "Networking", "fa": "شبکه" },
+      "value": {
+        "en": "Cisco IOS, MikroTik RouterOS/CHR, VLANs, TCP/IP, routing, WireGuard, VPN, firewalls, DNS, DHCP",
+        "fa": "Cisco IOS، MikroTik RouterOS/CHR، VLAN، TCP/IP، مسیریابی، WireGuard، VPN، فایروال، DNS و DHCP"
+      }
+    },
+    {
+      "label": { "en": "Systems & Virtualization", "fa": "سیستم و مجازی‌سازی" },
+      "value": {
+        "en": "Windows Server, Active Directory Domain Services, Ubuntu 22.04/24.04, VMware ESXi, Proxmox VE",
+        "fa": "Windows Server، Active Directory Domain Services، Ubuntu 22.04/24.04، VMware ESXi و Proxmox VE"
+      }
+    },
+    {
+      "label": { "en": "DevOps & Web Infrastructure", "fa": "DevOps و زیرساخت وب" },
+      "value": {
+        "en": "Docker, Docker Compose, Gitea, Gitea Actions, Git, Verdaccio, Nginx, Apache, Caddy, TLS/SSL",
+        "fa": "Docker، Docker Compose، Gitea، Gitea Actions، Git، Verdaccio، Nginx، Apache، Caddy و TLS/SSL"
+      }
+    },
+    {
+      "label": { "en": "Database & SQL (earlier hands-on/academic)", "fa": "پایگاه‌داده و SQL (تجربه پیشین/دانشگاهی)" },
+      "value": {
+        "en": "SQL, MySQL, SQL Server, SQLite, relational schema design, table relationships, normalization, primary/foreign keys, indexing, Entity Framework Core migrations, application database integration",
+        "fa": "SQL، MySQL، SQL Server، SQLite، طراحی شِمای رابطه‌ای، روابط بین جداول، نرمال‌سازی، کلیدهای اصلی و خارجی، ایندکس‌گذاری، Migration در Entity Framework Core و یکپارچه‌سازی پایگاه‌داده با برنامه‌ها"
+      }
+    },
+    {
+      "label": { "en": "Development", "fa": "توسعه نرم‌افزار" },
+      "value": {
+        "en": "PHP, JavaScript/AJAX, REST APIs, HTML/CSS/Sass, C#/ASP.NET Core, Java/Android, Python fundamentals",
+        "fa": "PHP، JavaScript/AJAX، REST API، HTML/CSS/Sass، C#/ASP.NET Core، Java/Android و مبانی Python"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "company": { "en": "Afzar Pardaz Mehrsam", "fa": "افزارپرداز مهرسام" },
+      "title": {
+        "en": "Chief Technology Officer - Infrastructure & Network Operations",
+        "fa": "مدیر ارشد فناوری - عملیات زیرساخت و شبکه"
+      },
+      "location": { "en": "Tehran, Iran", "fa": "تهران، ایران" },
+      "dates": { "en": "May 2024 - Present", "fa": "اردیبهشت ۱۴۰۳ - اکنون" },
+      "bullets": {
+        "en": [
+          "Lead a three-person technical team and own infrastructure delivery for approximately three client companies, including an environment serving about 50 employees.",
+          "Segment Cisco networks with VLANs for wireless, LAN, VPN, and server traffic; administer MikroTik CHR routing, firewall rules, and WireGuard remote access.",
+          "Operate Windows Server services including Active Directory domain controllers, DNS, DHCP, and upstream DNS forwarders.",
+          "Consolidated workloads across two VMware ESXi/Proxmox hosts and administer approximately 10 VMs, reducing additional hardware requirements and cost.",
+          "Maintain Ubuntu VMs and five Docker containers, Gitea/Verdaccio services, reverse proxies, and TLS; automate deployments with Gitea Actions and troubleshoot runner VM failures."
+        ],
+        "fa": [
+          "راهبری تیم فنی سه‌نفره و مسئولیت تحویل زیرساخت برای حدود سه شرکت مشتری؛ شامل محیطی با نزدیک به ۵۰ کارمند.",
+          "تفکیک شبکه Cisco با VLAN برای ترافیک بی‌سیم، LAN، VPN و سرورها؛ مدیریت مسیریابی MikroTik CHR، قواعد فایروال و دسترسی راه دور WireGuard.",
+          "راه‌اندازی و نگهداری سرویس‌های Windows Server شامل Domain Controller، Active Directory، DNS، DHCP و DNS Forwarder.",
+          "تجمیع بارهای کاری روی دو میزبان VMware ESXi/Proxmox و مدیریت حدود ۱۰ ماشین مجازی با هدف کاهش نیاز و هزینه سخت‌افزار.",
+          "نگهداری ماشین‌های Ubuntu و ۵ کانتینر Docker، سرویس‌های Gitea/Verdaccio، Reverse Proxy و TLS؛ خودکارسازی استقرار با Gitea Actions و رفع اختلال Runner VM."
+        ]
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": {
+        "en": "WordPress-Proxmox VPS Control Plugin",
+        "fa": "افزونه کنترل VPS در WordPress و Proxmox"
+      },
+      "dates": { "en": "Approx. 2025", "fa": "حدود ۱۴۰۴" },
+      "stack": "PHP, JavaScript/AJAX, Proxmox REST API",
+      "bullets": {
+        "en": [
+          "Built and deployed a paid WordPress plugin that connected a VPS-hosting portal to Proxmox for approximately 10 customer accounts.",
+          "Implemented VM status, start, stop, reboot, creation, deletion, console-access, and resource-management workflows through the Proxmox REST API."
+        ],
+        "fa": [
+          "طراحی و استقرار افزونه سفارشی و تجاری WordPress برای اتصال پرتال میزبانی VPS به Proxmox و خدمت‌رسانی به حدود ۱۰ حساب مشتری.",
+          "پیاده‌سازی مشاهده وضعیت، روشن/خاموش‌کردن، راه‌اندازی مجدد، ایجاد و حذف VM، دسترسی کنسول و مدیریت منابع از طریق Proxmox REST API."
+        ]
+      }
+    }
+  ],
+  "education": {
+    "institution": {
+      "en": "Islamic Azad University - North Tehran Branch",
+      "fa": "دانشگاه آزاد اسلامی واحد تهران شمال"
+    },
+    "degree": {
+      "en": "B.Sc. in Computer Software Engineering",
+      "fa": "کارشناسی مهندسی کامپیوتر - نرم‌افزار"
+    },
+    "dates": { "en": "Sep 2022 - Expected Dec 2026", "fa": "شهریور ۱۴۰۱ - پیش‌بینی پایان دی ۱۴۰۵" }
+  },
+  "credentials": [
+    {
+      "name": {
+        "en": "Linux Essentials & LPIC-1 Course Certificate",
+        "fa": "گواهی دوره Linux Essentials و LPIC-1"
+      },
+      "issuer": {
+        "en": "Tehran Institute of Technology (MFT)",
+        "fa": "مجتمع فنی تهران"
+      },
+      "date": { "en": "Oct 2025", "fa": "مهر ۱۴۰۴" }
+    }
+  ],
+  "training": {
+    "en": "Self-directed study: Network+, CCNA, MTCNA, Server+, MCSA, and virtualization",
+    "fa": "مطالعه خودآموز: Network+، CCNA، MTCNA، Server+، MCSA و مجازی‌سازی"
+  },
+  "languages": {
+    "en": "Persian (native), English (advanced)",
+    "fa": "فارسی (زبان مادری)، انگلیسی (پیشرفته)"
+  }
+}
